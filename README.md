@@ -1,4 +1,4 @@
-# simpleParser一个简单ES5的js语法分析器
+# simpleParser一个简单的jsES5语法分析器
 
 ### 介绍
 * 语法规范是使用[estree](https://github.com/estree/estree)的ES5语法规范
